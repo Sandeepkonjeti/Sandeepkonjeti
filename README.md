@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sandeepk200322@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true](https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true)
+- 📄 Know about my experiences ([https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true](https://drive.google.com/file/d/1vNB_8sr4JEKh2pocVzBPefIT-6SUQO7a/view?usp=sharing))
 
 - ⚡ Fun fact **I am funny**
 
