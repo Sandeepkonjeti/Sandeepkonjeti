@@ -7,10 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkonjeti&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkonjeti" /> </p>
 
 
-- 🔭 I’m currently working on **Alzheimer's Disease Prediction Using Deep Learning**
+- 🔭 I’m currently working on 
+
 
 - 🌱 I’m currently learning **Java Full Stack**
 
+- 🤝 I’m looking for help with [Alzheimer's Disease Prediction using deep learning](https://github.com/Sandeepkonjeti/Alzheimer-s-Disease-Prediction-Using-Deep-Learning.)
+  
 - 🤝 I’m looking for help with [E-commerce website](https://github.com/Sandeepkonjeti/E-Commerce_Website)
 
 - 💬 Ask me about **Java, Html, CSS**
